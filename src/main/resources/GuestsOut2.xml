@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Lists>
+    <Names>
+        <Nameitem>Jack</Nameitem>
+        <Nameitem>Jackky</Nameitem>
+        <Nameitem>Jan</Nameitem>
+        <Nameitem>John</Nameitem>
+        <Nameitem>Jimmy</Nameitem>
+        <Nameitem>Jordan</Nameitem>
+        <Nameitem>July</Nameitem>
+        <Nameitem>Joseph</Nameitem>
+        <Nameitem>Jasika</Nameitem>
+        <Nameitem>Jassy</Nameitem>
+    </Names>
+    <Addresses>
+        <Addressitem>
+                Pushkinskaya 25
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 26
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 27
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 28
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 29
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 30
+            </Addressitem>
+        <Addressitem>
+                New Hamptons
+            </Addressitem>
+        <Addressitem>
+                Under Bridge
+            </Addressitem>
+        <Addressitem>
+                Pushkinskaya 33
+            </Addressitem>
+        <Addressitem>
+                Cheap motel
+            </Addressitem>
+    </Addresses>
+    <Phones>
+        <Phoneitem>
+                +3750000001
+            </Phoneitem>
+        <Phoneitem>
+                +3750000002
+            </Phoneitem>
+        <Phoneitem>
+                +3750000003
+            </Phoneitem>
+        <Phoneitem>
+                +3750000004
+            </Phoneitem>
+        <Phoneitem>
+                +3750000005
+            </Phoneitem>
+        <Phoneitem>
+                +3750000006
+            </Phoneitem>
+        <Phoneitem>
+                +3750000007
+            </Phoneitem>
+        <Phoneitem>
+                +3750000008
+            </Phoneitem>
+        <Phoneitem>
+                +3750000009
+            </Phoneitem>
+        <Phoneitem>
+                +37500000010
+            </Phoneitem>
+    </Phones>
+</Lists>

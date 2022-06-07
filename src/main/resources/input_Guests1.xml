@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lists>
+   <Names>
+      <Nameitem>Jack</Nameitem>
+      <Nameitem>Jackky</Nameitem>
+      <Nameitem>Jan</Nameitem>
+      <Nameitem>John</Nameitem>
+      <Nameitem>Jimmy</Nameitem>
+      <Nameitem>Jordan</Nameitem>
+      <Nameitem>July</Nameitem>
+      <Nameitem>Joseph</Nameitem>
+      <Nameitem>Jasika</Nameitem>
+      <Nameitem>Jassy</Nameitem>
+   </Names>
+   <Addresses>
+      <Addressitem>Pushkinskaya 25</Addressitem>
+      <Addressitem>Pushkinskaya 26</Addressitem>
+      <Addressitem>Pushkinskaya 27</Addressitem>
+      <Addressitem>Pushkinskaya 28</Addressitem>
+      <Addressitem>Pushkinskaya 29</Addressitem>
+      <Addressitem>Pushkinskaya 30</Addressitem>
+      <Addressitem>New Hamptons</Addressitem>
+      <Addressitem>Under Bridge</Addressitem>
+      <Addressitem>Pushkinskaya 33</Addressitem>
+      <Addressitem>Cheap motel</Addressitem>
+   </Addresses>
+   <Phones>
+      <Phoneitem>+375290000</Phoneitem>
+      <Phoneitem>+375290001</Phoneitem>
+      <Phoneitem>+375290002</Phoneitem>
+      <Phoneitem>+375290003</Phoneitem>
+      <Phoneitem>+375290004</Phoneitem>
+      <Phoneitem>+375290005</Phoneitem>
+      <Phoneitem>+375290006</Phoneitem>
+      <Phoneitem>+375290007</Phoneitem>
+      <Phoneitem>+375290008</Phoneitem>
+      <Phoneitem>+375290009</Phoneitem>
+   </Phones>
+</Lists>

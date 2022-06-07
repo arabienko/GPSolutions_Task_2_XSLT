@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Guests>
+    <Guest Name="Jack">
+        <Profile>
+            <Address>
+                Pushkinskaya 25
+            </Address>
+            <Phone>
+                +3750000001
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jackky">
+        <Profile>
+            <Address>
+                Pushkinskaya 26
+            </Address>
+            <Phone>
+                +3750000002
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jan">
+        <Profile>
+            <Address>
+                Pushkinskaya 27
+            </Address>
+            <Phone>
+                +3750000003
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="John">
+        <Profile>
+            <Address>
+                Pushkinskaya 28
+            </Address>
+            <Phone>
+                +3750000004
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jimmy">
+        <Profile>
+            <Address>
+                Pushkinskaya 29
+            </Address>
+            <Phone>
+                +3750000005
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jordan">
+        <Profile>
+            <Address>
+                Pushkinskaya 30
+            </Address>
+            <Phone>
+                +3750000006
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="July">
+        <Profile>
+            <Address>
+                New Hamptons
+            </Address>
+            <Phone>
+                +3750000007
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Joseph">
+        <Profile>
+            <Address>
+                Under Bridge
+            </Address>
+            <Phone>
+                +3750000008
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jasika">
+        <Profile>
+            <Address>
+                Pushkinskaya 33
+            </Address>
+            <Phone>
+                +3750000009
+            </Phone>
+        </Profile>
+    </Guest>
+    <Guest Name="Jassy">
+        <Profile>
+            <Address>
+                Cheap motel
+            </Address>
+            <Phone>
+                +37500000010
+            </Phone>
+        </Profile>
+    </Guest>
+</Guests>

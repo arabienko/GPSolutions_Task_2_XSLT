@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><Guests>
+    <Guest name="Jack">
+        <Address>Pushkinskaya 25</Address>
+        <Phone>+375290000</Phone>
+    </Guest>
+    <Guest name="Jackky">
+        <Address>Pushkinskaya 26</Address>
+        <Phone>+375290001</Phone>
+    </Guest>
+    <Guest name="Jan">
+        <Address>Pushkinskaya 27</Address>
+        <Phone>+375290002</Phone>
+    </Guest>
+    <Guest name="John">
+        <Address>Pushkinskaya 28</Address>
+        <Phone>+375290003</Phone>
+    </Guest>
+    <Guest name="Jimmy">
+        <Address>Pushkinskaya 29</Address>
+        <Phone>+375290004</Phone>
+    </Guest>
+    <Guest name="Jordan">
+        <Address>Pushkinskaya 30</Address>
+        <Phone>+375290005</Phone>
+    </Guest>
+    <Guest name="July">
+        <Address>New Hamptons</Address>
+        <Phone>+375290006</Phone>
+    </Guest>
+    <Guest name="Joseph">
+        <Address>Under Bridge</Address>
+        <Phone>+375290007</Phone>
+    </Guest>
+    <Guest name="Jasika">
+        <Address>Pushkinskaya 33</Address>
+        <Phone>+375290008</Phone>
+    </Guest>
+    <Guest name="Jassy">
+        <Address>Cheap motel</Address>
+        <Phone>+375290009</Phone>
+    </Guest>
+</Guests>
